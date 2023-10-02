@@ -15,7 +15,10 @@ namespace do_shoutai {
 		}
 
 		private void button1_Click(object sender, EventArgs e) {
-			label1.Text = "やほ";
+
+	
+			label1.Text = "おはにしました";
+
 		}
 	}
 }
